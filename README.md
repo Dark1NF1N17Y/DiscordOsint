@@ -16,7 +16,7 @@ Discord Project That Made In Nodejs
 - Wait Until It Finishes Searching
 
 > [!IMPORTANT]
-> You Have To Install The Following Packages Using `npm I <PACKAGES>`
+> You Have To Install The Following Packages Using `npm i <PACKAGES>`
 >
 > Packages Are `readline-sync` `https` `discord-id` `prompt-sync` `fs`
 
