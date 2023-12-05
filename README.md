@@ -1,5 +1,5 @@
 # DiscordOsint
-Discord Project That Made By Nodejs
+Discord Project That Made In Nodejs
 
 - DiscordUserInfo.js -> Get Discord User Info From A Bot Without Being In The Same Server
 
